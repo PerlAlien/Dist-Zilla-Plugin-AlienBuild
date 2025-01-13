@@ -110,7 +110,11 @@ eumm_hash_var: %args
 
 # AUTHOR
 
-Graham Ollis <plicease@cpan.org>
+Author: Graham Ollis <plicease@cpan.org>
+
+Contributors:
+
+Curtis Jewell (CSJEWELL)
 
 # COPYRIGHT AND LICENSE
 
